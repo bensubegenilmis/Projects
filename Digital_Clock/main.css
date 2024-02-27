@@ -8,7 +8,7 @@ body{
     width: 50%;
     position: absolute;
     left: 25%;
-    top:25%;
+    top:20%;
 
    
 }
@@ -16,7 +16,8 @@ body{
 #clock h2 {
    
         font-family: "Bebas Neue", sans-serif;
-        font-weight: 50px;
+        font-weight:100px;
+        font-size: 100px;
      
       
 }
@@ -37,11 +38,13 @@ body{
     margin-right: 3% ;
     font-family: "Orbitron", sans-serif;
     font-weight: bold;
+    font-size: 80px;
 
 }
 
 #date{
     font-family: "Bebas Neue", sans-serif;
-    font-size: 7px;
+    font-size: 40px;
+    font-weight:100px;
 
 }
