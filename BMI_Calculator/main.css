@@ -1,13 +1,14 @@
 body{
     font-family: "Montserrat", sans-serif ;
+  
 }
 
 #bmi-box{
-    background-color: #424242;
+    background-color: #1A364F;
     color:#fff;
     width: 30% ;
     position: absolute;
-    top: 30%;
+    top: 28%;
     left: 35%;
     padding: 20px;
     border-radius: 10px;
